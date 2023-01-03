@@ -6,6 +6,7 @@
 
 <?php
 echo "Try";
+echo "Hello, PHP"; //Hello
 ?>
 
 </body>
